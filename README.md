@@ -1,5 +1,4 @@
 # MedWatch Backend
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ArthSharma1504/medwatch)
 
 This repository contains the backend service for MedWatch, a medication management and reminder application. It is built with Node.js, Express, and MySQL, providing a RESTful API for user authentication, medication tracking, and reminder management.
 
